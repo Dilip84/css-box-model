@@ -1,0 +1,41 @@
+body{
+    border: 10 px solid salmon;
+    margin: 50px;
+    padding: 50px;
+}
+
+.container-1{
+    height: 500px;
+    background-color: rgb(164, 164, 216);
+    margin: 15px;
+    padding: 15px;
+    border: 15px solid rgb(9, 255, 0);
+    display: flex;
+    /* width:auto%; */
+
+}
+.container-1-1{
+    height: 400px;
+    background-color: rgb(114, 148, 177);
+    margin: 15px;
+    padding: 15px;
+    border: 15px solid rgb(9, 255, 0);
+    display: block;
+    width: 30%;
+}
+
+.container-2{
+    height: 500px;
+    background-color: rgb(255, 0, 0);
+    margin: 15px;
+    padding: 15px;
+    border: 15px solid rgb(17, 0, 255);
+}
+
+.container-3{
+    height: 500px;
+    background-color: rgb(51, 212, 36);
+    margin: 15px;
+    padding: 15px;
+    border: 15px solid yellow;
+}
